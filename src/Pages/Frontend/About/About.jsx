@@ -8,6 +8,7 @@ export default function About() {
           <div className="col">
             <h1 className='text-center mt-5' >About</h1>
             <p>testing</p>
+            <p>testing2</p>
           </div>
         </div>
       </div>
